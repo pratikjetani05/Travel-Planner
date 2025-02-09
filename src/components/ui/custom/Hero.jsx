@@ -1,14 +1,14 @@
 import React from "react";
 import { Button } from "../button";
 import { Link } from "react-router-dom";
-import background from "../../../assets/background.png"
-import img1 from "../../../assets/image1.png"
-import img2 from "../../../assets/image2.png"
-import img3 from "../../../assets/image3.png"
-import img4 from "../../../assets/image4.png"
-import dest1 from "../../../assets/dest1.png"
-import dest2 from "../../../assets/dest2.png"
-import dest3 from "../../../assets/dest3.png"
+import background from "../../../assets/background.webp"
+import img1 from "../../../assets/image1.webp"
+import img2 from "../../../assets/image2.webp"
+import img3 from "../../../assets/image3.webp"
+import img4 from "../../../assets/image4.webp"
+import dest1 from "../../../assets/dest1.webp"
+import dest2 from "../../../assets/dest2.webp"
+import dest3 from "../../../assets/dest3.webp"
 import { 
   Compass, 
   Map, 
