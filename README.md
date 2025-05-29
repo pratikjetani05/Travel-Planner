@@ -1,8 +1,31 @@
-# React + Vite
+# 🌍 Travel Planner App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web-based application that helps users plan their trips with ease. Features include itinerary creation,  destination suggestions, and more — all in one place!
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🧳 Create and manage trip itineraries
+- 📍 Add destinations and notes
+- 📅 View trips by date
+- 🧠 Smart suggestions for places to visit
+- 🔐 User authentication and data security
+
+## 🛠️ Tech Stack
+
+**Frontend:** React, Tailwind CSS  
+**Backend:** Firebase (Firestore Database, Auth)
+
+## 📸 Screenshots
+
+_Add your app screenshots here, like homepage, trip planner UI, etc._
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally.
+
+### 📦 Installation
+
+```bash
+git clone https://github.com/your-username/travel-planner.git
+cd travel-planner
+npm install
