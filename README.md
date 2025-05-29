@@ -1,6 +1,6 @@
 # 🌍 Travel Planner App
 
-A web-based application that helps users plan their trips with ease. Features include itinerary creation,  destination suggestions, and more — all in one place!
+A web-based application that helps users plan their trips with ease. Features include itinerary creation, destination suggestions, and more — all in one place!
 
 ## ✨ Features
 
@@ -18,17 +18,17 @@ A web-based application that helps users plan their trips with ease. Features in
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](./assets/photo1.png)
+![Homepage](./src/assets/photo1.png)
 
 ### 📅 Trip Planner
-![Trip Planner](./assets/photo3.png)
+![Trip Planner](./src/assets/photo3.png)
 
 ### 🌟 Popular Destinations
-![Destination](./assets/photo2.png)
+![Destination](./src/assets/photo2.png)
 
 #### 🏖️ Goa, India
-- Famous for its beaches, nightlife, and Portuguese heritage.
-![Goa](./assets/photo4.png)
+- Famous for its beaches, nightlife, and Portuguese heritage.  
+![Goa](./src/assets/photo4.png)
 
 ## 🚀 Getting Started
 
@@ -40,15 +40,23 @@ Follow these steps to run the project locally.
 git clone https://github.com/your-username/travel-planner.git
 cd travel-planner
 npm install
+```
 
-▶️ Running the App
+## 🚀 Running the App
+
+To start the development server, run:
+
+```bash
 npm start
+```
 
-
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome!
 Please open an issue or submit a pull request.
 
-📧 Contact
-Pratik Jetani – pratikjetani14@gmail.com
-GitHub: https://github.com/pratikjetani05
+```md
+## 📧 Contact
+
+
+Pratik Jetani – [pratikjetani14@gmail.com](mailto:pratikjetani14@gmail.com)  
+GitHub: [https://github.com/pratikjetani05](https://github.com/pratikjetani05)
